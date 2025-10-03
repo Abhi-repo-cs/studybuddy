@@ -58,3 +58,19 @@ A beginner-friendly AI chatbot built with React and OpenRouter, designed to help
 1. **Clone the repo**
    ```bash
    git clone https://github.com/your-username/study-buddy-bot.git
+
+
+
+   ---
+
+## 🌐 Live Demo
+
+Try it now: [studybuddy-flame.vercel.app](https://studybuddy-flame.vercel.app)
+
+---
+
+
+
+
+
+   Bot icon by [Icons8](https://icons8.com/icon/2f8efjyRWNVz/bot)
